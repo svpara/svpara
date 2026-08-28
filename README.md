@@ -49,9 +49,3 @@
 ## 📊 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=svpara&show_icons=true&theme=radical)
 
----
-
-## 📫 Connect with Me:
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-

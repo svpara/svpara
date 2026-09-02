@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Pradip Rathod
 
-💻 **Full Stack Developer** | 🚀 **Problem Solver** | 🤖 **AI Enthusiast** | **mern stack** | ** devops** |
+💻 **Full Stack Developer** | 🚀 **Problem Solver** | 🤖 **AI Enthusiast** | **mern stack** | **devops** |
 
 ---
 

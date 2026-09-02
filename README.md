@@ -28,8 +28,8 @@
 ## 🚀 My Projects
 
 - 📌 **Career Guidance App**
-- 📌 **Chat Application**
-- 📌 **Portfolio Website**
+- 📌 **nexcampus**
+- 📌 **Time Table Generator**
 - 📌 **Student Placement Prediction System**
 
 ---
@@ -61,6 +61,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
@@ -87,22 +88,21 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-![Pradip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svpara&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=svpara&theme=radical)
-
----
 
 ## 📈 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svpara&layout=compact&theme=radical)
+
+---
+
+### 🏆 Success Mindset
+
+> **"Success is not a destination, it's the result of consistent effort, continuous learning, and never giving up."** 🚀
+
+### 💻 Keep Coding • Keep Learning • Keep Growing • Keep Winning 🔥
 
 ---
 

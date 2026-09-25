@@ -91,6 +91,15 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+---
+
+## 💻 Coding Profiles
+
+- 💻 [LeetCode](YOUR_LEETCODE_PROFILE_LINK)
+- 🔵 [Codeforces](YOUR_CODEFORCES_PROFILE_LINK)
+
+---
+---
 
 
 ## 🏆 Success Mindset

@@ -95,8 +95,8 @@
 
 ## 💻 Coding Profiles
 
-- 💻 [LeetCode]
-- 🔵 [Codeforces]
+- 💻 LeetCode
+- 🔵 Codeforces
 
 ---
 ---

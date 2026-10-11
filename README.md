@@ -92,7 +92,21 @@
 
 ---
 ---
+## 📚 Currently Learning
 
+- 🏗️ **System Design** — Architecture, scalability, and system design fundamentals
+- ⚙️ **Backend Development** — Node.js, Express.js, and REST APIs
+- ⚡ **Redis** — Caching and improving application performance
+- 🐳 **Docker** — Containerization and deployment basics
+- 🧠 **Data Structures & Algorithms** — Solving problems using C++
+- ☁️ **Cloud Computing** — AWS and Google Cloud fundamentals
+
+## 🎯 Current Goal
+
+Building practical projects, strengthening my backend development skills, and learning how to design scalable applications.
+
+---
+---
 ## 💻 Coding Profiles
 
 - 💻 LeetCode

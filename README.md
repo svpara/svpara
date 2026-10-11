@@ -134,4 +134,6 @@ Building practical projects, strengthening my backend development skills, and le
 
 ---
 
-  ⭐ **Thanks for visiting my profile!**
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+  <br/>

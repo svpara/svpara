@@ -91,8 +91,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
----
 ## 📚 Currently Learning
+---
 
 - 🏗️ **System Design** — Architecture, scalability, and system design fundamentals
 - ⚙️ **Backend Development** — Node.js, Express.js, and REST APIs

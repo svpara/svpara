@@ -100,7 +100,7 @@
 - 🐳 **Docker** — Containerization and deployment basics
 - 🧠 **Data Structures & Algorithms** — Solving problems using C++
 - ☁️ **Cloud Computing** — AWS and Google Cloud fundamentals
-
+---
 ## 🎯 Current Goal
 
 Building practical projects, strengthening my backend development skills, and learning how to design scalable applications.

@@ -95,7 +95,6 @@
 ---
 
 - 🏗️ **System Design** — Architecture, scalability, and system design fundamentals
-- ⚙️ **Backend Development** — Node.js, Express.js, and REST APIs
 - ⚡ **Redis** — Caching and improving application performance
 - 🐳 **Docker** — Containerization and deployment basics
 - 🧠 **Data Structures & Algorithms** — Solving problems using C++
